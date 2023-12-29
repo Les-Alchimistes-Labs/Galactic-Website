@@ -9,5 +9,5 @@
 
 <img width="600px" src="img/game.png">
 
-<p><strong>Website Link</strong> : <a href="https://sacha-layani.github.io/Galactic-Website/">https://sacha-layani.github.io/Galactic-Website/</a></p>
+<p><strong>Website Link</strong> : <a href="https://les-alchimistes-labs.github.io/Galactic-Website/">https://les-alchimistes-labs.github.io/Galactic-Website/</a></p>
 </div>
